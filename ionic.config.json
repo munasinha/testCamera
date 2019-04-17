@@ -1,5 +1,7 @@
 {
   "name": "multiCompSinglePage",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
